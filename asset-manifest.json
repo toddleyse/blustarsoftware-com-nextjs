@@ -1,0 +1,233 @@
+{
+  "https://blustarsoftware.com/media/wmpjgasd/blu-star-logo-wo-text-224x64.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a75cf83c271df5ec7756f7bde425321fce213519-934x267-png"
+    }
+  },
+  "https://blustarsoftware.com/media/gxgpsv45/star-icon.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f88cf3258ac1259f7a2849ff2b61c93890d5fed0-40x40-png"
+    }
+  },
+  "https://blustarsoftware.com/media/vjapbj1x/temp_main.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f8cc633d619014891cb2623b6852abd9d26e6c5a-2036x1376-png"
+    }
+  },
+  "https://blustarsoftware.com/media/gjvfgzo4/blustar_galaxy-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-40ef67930c0fbdc9b3cd6e6ce940a42b8e30c333-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/oe1b1haa/blustar_polaris-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa6369009d2b4d4641af6637e89482977bd0d5da-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/stbfnnvg/blustar_apex-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1a4ee3d0b39b98d05e02663ea40af13ab57b5c3a-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/znzhejhr/blustar_constellation-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7e0ed145a20a365b157932de5595af9e1637100b-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/3milrgqz/bugman-400x400.webp": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4021da218ea35383fb1b81e61e62147eb9e44207-400x400-webp"
+    }
+  },
+  "https://blustarsoftware.com/media/ffhhfsbw/blustar_nebula-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a068f124e7908f8a3c78f25d9aafbec769f3311d-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/lxqg4xkc/blustar_orion-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-68a9a93ffe4d246e6e5bd78d53c8d417bf40776e-800x578-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/eotknfq2/blustar_homeimg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2ec6441a7d89948faf6495ed8bc6396738cecad8-1408x1408-png"
+    }
+  },
+  "https://blustarsoftware.com/media/ei3hyq2k/location-icon.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-88968dc7d2144e10ade987c9ff5f1ef50f2789c1-120x160-png"
+    }
+  },
+  "https://blustarsoftware.com/media/0e3pvdw5/piedpiper-400x400.webp": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-99c6a575c93789025d519575a00470ecb6bdc964-400x400-webp"
+    }
+  },
+  "https://blustarsoftware.com/media/bfxac5q4/adams-400x400.webp": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-51bb93ee59e458a055ddf205c0bcb56c3c8b30ab-400x400-webp"
+    }
+  },
+  "https://blustarsoftware.com/media/dfrnudc1/diam-400x400.webp": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-54140ae5645de7954025764d3dc956227f46ecdd-400x400-webp"
+    }
+  },
+  "https://blustarsoftware.com/media/sotmhokm/letter-icon.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c92451db7a41e0a65914f14e52831f85a39ef276-160x120-png"
+    }
+  },
+  "https://blustarsoftware.com/media/kyflj150/bethere-400x400.webp": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5804507cc96e2d5bb2fd13a65e26491517c4638f-400x400-webp"
+    }
+  },
+  "https://blustarsoftware.com/media/qawlxmii/phone-icon.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7dc6b860681b201cfe3a57ba0a111ba93a71a0bb-60x60-png"
+    }
+  },
+  "https://www.blustarsoftware.com/media/ggackquj/blustar_1200x630.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bd5c93bc77df1781b79a493b4742793770cdfba3-1200x630-png"
+    }
+  },
+  "https://blustarsoftware.com/media/2p1htdeg/blustar-desktop.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-03be6ac595c14fae86d1d0e19a6b8ff825f87910-750x500-jpg"
+    }
+  },
+  "https://www.blustarsoftware.com/media/wmpjgasd/blu-star-logo-wo-text-224x64.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a75cf83c271df5ec7756f7bde425321fce213519-934x267-png"
+    }
+  },
+  "https://blustarsoftware.com/media/4z5nfalt/handshake.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-05685bc4b4fc08286b1e36203eb3efc124699aa6-500x500-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/tg0ddljc/datamigration1000x464.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-09ad20bab0a13f86c408d94c18d52e2afe3fa5e8-1000x464-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/gu4pbmoj/clientrelationship-1000x664.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-04d4eaf9fe9beab931672b14daccae12e5ab7d80-1000x667-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/1a0pnsdw/support-1000x556.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9896e6616c5b2de583370223543a94ad29d657f5-1000x556-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/etmplhwj/support-1000x519.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4d1ca87ab24b13b219dab6c3523afd7e3acf4808-1000x519-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/ipofmna2/adams-logo.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a9c11e899d90c82b4882e6fd8d11eb6654a480a0-501x567-png"
+    }
+  },
+  "https://blustarsoftware.com/media/c10fxxga/new-heights-500x500.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-61f87f7f73d475b9b64caa0fc21be20cab8c8cc5-500x500-png"
+    }
+  },
+  "https://blustarsoftware.com/media/pwyhf0gp/blustar-nowords-500x500.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-31429eb5660bd987213dafd835564fc7a1b20de4-500x500-png"
+    }
+  },
+  "https://blustarsoftware.com/media/54afdtwb/todd_leyse-800x585.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1974215631fb537699bf6102fe0ff8d88829c50d-800x585-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/zmhbk4o1/jason_kochel-800x585.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-22881b022d3a33652d8312cf83ff0a817ce9f6ab-800x585-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/d4ng1txu/marlin_stimpson-800x585.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dc81a2145b9a4f075fbaadd74c96487079ddc076-800x585-jpg"
+    }
+  },
+  "https://blustarsoftware.com/media/z4beokyf/melissa_stenson-800x578.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-48455679dfebb3f98cfef19ff261b98d9b9d999d-800x585-jpg"
+    }
+  }
+}
